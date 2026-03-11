@@ -33,4 +33,5 @@ La base contiene **54 registros** y columnas con nombres claros.
 - El mes con mayor venta real del histórico es **diciembre de 2024**.
 - La proyección lineal muestra que el mes más alto del próximo trimestre sería **septiembre de 2025**.
 
+VIDEO: https://drive.google.com/file/d/1Ktrq1lBHTHKNy9jlrvOG3Frf8Zt46gaF/view?usp=sharing
 
